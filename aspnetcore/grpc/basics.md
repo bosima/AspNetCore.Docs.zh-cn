@@ -33,7 +33,7 @@ ms.locfileid: "93061010"
 
 ## <a name="proto-file"></a>proto 文件
 
-gRPC 使用协定优先方法进行 API 开发。 默认情况下，协议缓冲区 (protobuf) 用作接口定义语言 (IDL)。 \*.proto 文件包含：
+gRPC 使用协定优先方法进行 API 开发。 默认情况下，Protocol Buffers 用作接口定义语言 (IDL)。 \*.proto 文件包含：
 
 * gRPC 服务的定义。
 * 在客户端与服务器之间发送的消息。
